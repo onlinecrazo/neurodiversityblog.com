@@ -48,6 +48,8 @@ defaults:
     values:
       layout: "page"
 
+favicon: "/assets/images/favicon.ico"
+
 # Exclude from processing
 exclude:
   - Gemfile
