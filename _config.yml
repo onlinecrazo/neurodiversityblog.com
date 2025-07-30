@@ -1,0 +1,59 @@
+title: "Neurodiversity Blog"
+description: "Research-backed insights for the neurodivergent community"
+baseurl: ""
+url: "https://neurodiversityblog.com"
+author: "Neurodiversity Blog Team"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+theme: minima
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# SEO
+lang: en_US
+twitter:
+  username: neurodiversityblog
+  card: summary_large_image
+
+# Navigation
+header_pages:
+  - about.md
+  - research.md
+  - contact.md
+
+# Permalink structure
+permalink: /:year/:month/:day/:title/
+
+# Collections
+collections:
+  posts:
+    output: true
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Neurodiversity Blog Team"
+  - scope:
+      path: ""
+    values:
+      layout: "page"
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
