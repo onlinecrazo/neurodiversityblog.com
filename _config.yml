@@ -30,6 +30,15 @@ header_pages:
 # Permalink structure
 permalink: /:year/:month/:day/:title/
 
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# SEO settings (add this section)
+logo: /favicon-32x32.png
+
+
 # Collections
 collections:
   posts:
