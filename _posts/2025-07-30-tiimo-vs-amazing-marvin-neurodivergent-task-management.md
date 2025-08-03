@@ -13,6 +13,8 @@ image: /assets/images/tiimo-vs-marvin-comparison.svg
 
 *Published: August 3, 2025 | Reading time: 8 minutes*
 
+![Tiimo vs Amazing Marvin Comparison]({{ '/assets/images/tiimo-vs-marvin-comparison.svg' | relative_url }})
+
 If you're neurodivergent and drowning in a sea of productivity apps that just don't "get" your brain, you're not alone. Today we're diving deep into two apps specifically designed with ADHD, autism, and executive dysfunction in mind: **Tiimo** and **Amazing Marvin**.
 
 Both have passionate user bases, but they take completely different approaches to helping neurodivergent brains stay organized. Let's break down which one might be your perfect productivity partner.
