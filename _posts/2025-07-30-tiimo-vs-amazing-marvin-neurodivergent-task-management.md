@@ -9,7 +9,7 @@ description: "In-depth comparison of Tiimo and Amazing Marvin - two popular task
 image: /assets/images/tiimo-vs-marvin-comparison.svg
 ---
 
-[# Tiimo vs Amazing Marvin: Which ADHD & Autism-Friendly Task Manager is Right for You?
+# Tiimo vs Amazing Marvin: Which ADHD & Autism-Friendly Task Manager is Right for You?
 
 *Published: August 3, 2025 | Reading time: 8 minutes*
 
@@ -153,4 +153,4 @@ Remember: the best productivity app is the one you'll actually use consistently.
 - Tiimo App Store reviews and official documentation (2024)
 - Amazing Marvin feature analysis and user testimonials (2024)  
 - ProductHunt user reviews for both applications
-- Community feedback from ADHD and autism productivity forums]
+- Community feedback from ADHD and autism productivity forums
