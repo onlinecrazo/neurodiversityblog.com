@@ -1,0 +1,95 @@
+<svg viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1200" height="630" fill="#f8fafc"/>
+  
+  <!-- Header -->
+  <rect width="1200" height="120" fill="#4f46e5"/>
+  <text x="600" y="70" text-anchor="middle" fill="white" font-family="Inter, system-ui, sans-serif" font-size="36" font-weight="700">Tiimo vs Amazing Marvin</text>
+  <text x="600" y="95" text-anchor="middle" fill="#e0e7ff" font-family="Inter, system-ui, sans-serif" font-size="16">Task Management Apps for Neurodivergent Brains</text>
+  
+  <!-- Split line -->
+  <line x1="600" y1="120" x2="600" y2="630" stroke="#e2e8f0" stroke-width="2"/>
+  
+  <!-- Tiimo Section -->
+  <g id="tiimo-section">
+    <!-- App icon placeholder -->
+    <circle cx="300" cy="180" r="30" fill="#6366f1"/>
+    <text x="300" y="188" text-anchor="middle" fill="white" font-family="Inter, system-ui, sans-serif" font-size="24" font-weight="700">T</text>
+    
+    <!-- App name -->
+    <text x="300" y="235" text-anchor="middle" fill="#1e293b" font-family="Inter, system-ui, sans-serif" font-size="28" font-weight="700">Tiimo</text>
+    <text x="300" y="255" text-anchor="middle" fill="#64748b" font-family="Inter, system-ui, sans-serif" font-size="14">Visual Daily Planner</text>
+    
+    <!-- Features -->
+    <g id="tiimo-features">
+      <text x="50" y="300" fill="#1e293b" font-family="Inter, system-ui, sans-serif" font-size="16" font-weight="600">Key Features:</text>
+      
+      <circle cx="70" cy="325" r="3" fill="#10b981"/>
+      <text x="85" y="330" fill="#374151" font-family="Inter, system-ui, sans-serif" font-size="14">Visual timeline interface</text>
+      
+      <circle cx="70" cy="350" r="3" fill="#10b981"/>
+      <text x="85" y="355" fill="#374151" font-family="Inter, system-ui, sans-serif" font-size="14">AI-powered scheduling</text>
+      
+      <circle cx="70" cy="375" r="3" fill="#10b981"/>
+      <text x="85" y="380" fill="#374151" font-family="Inter, system-ui, sans-serif" font-size="14">Focus tools & timers</text>
+      
+      <circle cx="70" cy="400" r="3" fill="#10b981"/>
+      <text x="85" y="405" fill="#374151" font-family="Inter, system-ui, sans-serif" font-size="14">Apple Design Award finalist</text>
+      
+      <circle cx="70" cy="425" r="3" fill="#10b981"/>
+      <text x="85" y="430" fill="#374151" font-family="Inter, system-ui, sans-serif" font-size="14">Simple, clean design</text>
+    </g>
+    
+    <!-- Best for -->
+    <rect x="50" y="460" width="500" height="80" fill="#f0f9ff" rx="8"/>
+    <text x="70" y="485" fill="#0369a1" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="600">Best for:</text>
+    <text x="70" y="505" fill="#0369a1" font-family="Inter, system-ui, sans-serif" font-size="13">Visual learners who prefer simplicity</text>
+    <text x="70" y="522" fill="#0369a1" font-family="Inter, system-ui, sans-serif" font-size="13">Need structured daily routines</text>
+  </g>
+  
+  <!-- Amazing Marvin Section -->
+  <g id="marvin-section">
+    <!-- App icon placeholder -->
+    <circle cx="900" cy="180" r="30" fill="#ef4444"/>
+    <text x="900" y="188" text-anchor="middle" fill="white" font-family="Inter, system-ui, sans-serif" font-size="24" font-weight="700">M</text>
+    
+    <!-- App name -->
+    <text x="900" y="235" text-anchor="middle" fill="#1e293b" font-family="Inter, system-ui, sans-serif" font-size="28" font-weight="700">Amazing Marvin</text>
+    <text x="900" y="255" text-anchor="middle" fill="#64748b" font-family="Inter, system-ui, sans-serif" font-size="14">Customizable Task Manager</text>
+    
+    <!-- Features -->
+    <g id="marvin-features">
+      <text x="650" y="300" fill="#1e293b" font-family="Inter, system-ui, sans-serif" font-size="16" font-weight="600">Key Features:</text>
+      
+      <circle cx="670" cy="325" r="3" fill="#10b981"/>
+      <text x="685" y="330" fill="#374151" font-family="Inter, system-ui, sans-serif" font-size="14">200+ customization options</text>
+      
+      <circle cx="670" cy="350" r="3" fill="#10b981"/>
+      <text x="685" y="355" fill="#374151" font-family="Inter, system-ui, sans-serif" font-size="14">ADHD-specific features</text>
+      
+      <circle cx="670" cy="375" r="3" fill="#10b981"/>
+      <text x="685" y="380" fill="#374151" font-family="Inter, system-ui, sans-serif" font-size="14">Project management tools</text>
+      
+      <circle cx="670" cy="400" r="3" fill="#10b981"/>
+      <text x="685" y="405" fill="#374151" font-family="Inter, system-ui, sans-serif" font-size="14">Time tracking & analytics</text>
+      
+      <circle cx="670" cy="425" r="3" fill="#10b981"/>
+      <text x="685" y="430" fill="#374151" font-family="Inter, system-ui, sans-serif" font-size="14">Desktop & web app</text>
+    </g>
+    
+    <!-- Best for -->
+    <rect x="650" y="460" width="500" height="80" fill="#fef2f2" rx="8"/>
+    <text x="670" y="485" fill="#dc2626" font-family="Inter, system-ui, sans-serif" font-size="14" font-weight="600">Best for:</text>
+    <text x="670" y="505" fill="#dc2626" font-family="Inter, system-ui, sans-serif" font-size="13">Power users who want deep customization</text>
+    <text x="670" y="522" fill="#dc2626" font-family="Inter, system-ui, sans-serif" font-size="13">Complex projects & workflows</text>
+  </g>
+  
+  <!-- VS Badge -->
+  <circle cx="600" cy="320" r="40" fill="white" stroke="#e2e8f0" stroke-width="2"/>
+  <text x="600" y="328" text-anchor="middle" fill="#4f46e5" font-family="Inter, system-ui, sans-serif" font-size="18" font-weight="700">VS</text>
+  
+  <!-- Footer -->
+  <rect x="0" y="560" width="1200" height="70" fill="#1e293b"/>
+  <text x="600" y="590" text-anchor="middle" fill="white" font-family="Inter, system-ui, sans-serif" font-size="14">Read the full comparison at neurodiversityblog.com</text>
+  <text x="600" y="610" text-anchor="middle" fill="#94a3b8" font-family="Inter, system-ui, sans-serif" font-size="12">Research-backed insights for neurodivergent brains</text>
+</svg>
