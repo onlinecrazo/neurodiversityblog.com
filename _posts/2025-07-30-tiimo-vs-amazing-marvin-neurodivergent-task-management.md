@@ -6,7 +6,7 @@ categories: [reviews, ADHD, autism, productivity]
 tags: [task-management, app-review, neurodivergent-tools, comparison]
 author: "Neurodiversity Blog Team"
 description: "In-depth comparison of Tiimo and Amazing Marvin - two popular task management apps designed specifically for ADHD, autism, and executive dysfunction."
-image: /assets/images/tiimo-vs-marvin-comparison.jpg
+image: /assets/images/tiimo-vs-marvin-comparison.svg
 ---
 
 [# Tiimo vs Amazing Marvin: Which ADHD & Autism-Friendly Task Manager is Right for You?
